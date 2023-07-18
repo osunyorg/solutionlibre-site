@@ -1,4 +1,20 @@
 ---
 title: Informations légales
-items: []
+items:
+- title: Mentions légales
+  target: "/translation missing: fr.communication.website.pages.defaults.home.slug/mentions-legales/"
+  kind: page
+  children: []
+- title: Politique de confidentialité
+  target: "/translation missing: fr.communication.website.pages.defaults.home.slug/politique-de-confidentialite/"
+  kind: page
+  children: []
+- title: Accessibilité
+  target: "/translation missing: fr.communication.website.pages.defaults.home.slug/accessibilite/"
+  kind: page
+  children: []
+- title: Plan du site
+  target: "/translation missing: fr.communication.website.pages.defaults.home.slug/plan-du-site/"
+  kind: page
+  children: []
 

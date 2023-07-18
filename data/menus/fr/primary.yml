@@ -1,4 +1,20 @@
 ---
 title: Menu principal
-items: []
+items:
+- title: Actualités
+  target: "/translation missing: fr.communication.website.pages.defaults.home.slug/actualites/"
+  kind: page
+  children: []
+- title: Équipe
+  target: "/translation missing: fr.communication.website.pages.defaults.home.slug/equipe/"
+  kind: page
+  children:
+  - title: Équipe éditoriale
+    target: "/translation missing: fr.communication.website.pages.defaults.home.slug/equipe/equipe-editoriale/"
+    kind: page
+    children: []
+- title: Organisations
+  target: "/translation missing: fr.communication.website.pages.defaults.home.slug/organisations/"
+  kind: page
+  children: []
 
