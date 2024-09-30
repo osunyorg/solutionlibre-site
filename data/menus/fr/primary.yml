@@ -2,15 +2,15 @@
 title: Menu principal
 items:
 - title: Actualités
-  target: "/translation missing: fr.communication.website.pages.defaults.home.slug/actualites/"
+  target: "/actualites/"
   kind: page
   children: []
 - title: Équipe
-  target: "/translation missing: fr.communication.website.pages.defaults.home.slug/equipe/"
+  target: "/equipe/"
   kind: page
   children: []
 - title: Organisations
-  target: "/translation missing: fr.communication.website.pages.defaults.home.slug/organisations/"
+  target: "/organisations/"
   kind: page
   children: []
 
